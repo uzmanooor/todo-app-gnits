@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^11.21.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "todo-app-gnits": "file:.."
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.0",
